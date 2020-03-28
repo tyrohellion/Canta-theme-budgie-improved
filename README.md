@@ -5,6 +5,13 @@ Canta is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which sup
 This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for his great job!
 #### materia gtk theme: https://github.com/nana-4/materia-theme
 
+These are the things that are improved for budgie desktop:
+
+#changed budgie tasklist buttons to lay out horizontally instead of vertically
+
+
+
+
 ## Info
 
 ### GTK+ 3.20 or later
