@@ -8,7 +8,7 @@ This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for 
 These are the things that are improved for budgie desktop:
 
 - changed budgie tasklist buttons to lay out horizontally instead of vertically
-
+- no more rounded corners on the budgie panel
 
 
 
