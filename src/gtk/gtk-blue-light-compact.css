@@ -7340,7 +7340,7 @@ popover.background.places-menu row {
   padding: 0 4px;
 }
 
-.budgie-panel.vertical #tasklist-button {
+.budgie-panel.horizontal #tasklist-button {
   min-height: 32px;
 }
 
