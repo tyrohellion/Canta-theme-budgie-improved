@@ -25,6 +25,10 @@ This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for 
 - GTK2 engine Murrine 0.98.1.1 or later.
 - GTK2 pixbuf engine or the gtk(2)-engines package.
 
+Solus:
+
+    Solus has all the dependencies installed by default
+
 Fedora/RedHat distros:
 
     yum install gtk-murrine-engine gtk2-engines
