@@ -47,7 +47,11 @@ Clone the repo into your terminal by typing
     
     git clone https://github.com/tyroticuss/Canta-theme-budgie-improved
 
-Run
+Then cd into the directory by typing 
+    
+    cd Canta-theme-budgie-improved
+
+and then type this to install
 
     ./install.sh
 
