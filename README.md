@@ -13,6 +13,10 @@ This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for 
 - removed dotted lines on scrolling areas like the budgie menu for a cleaner look
 - increased spacing and matched colors on budgie menu for an overall cleaner and uniform look
 
+## Showcase
+
+![](https://github.com/tyroticuss/Canta-theme-budgie-improved/blob/master/gif/Canta%20theme%20budgie%20improved.gif)
+
 ## Info
 
 ### GTK+ 3.20 or later
