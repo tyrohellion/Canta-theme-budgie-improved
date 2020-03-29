@@ -41,7 +41,11 @@ Other:
 Search for the engines in your distributions repository or install the engines from source.
 ## Install Or Uninstall
 
-Open the terminal at current directory.
+(install git if you are going to clone the repo)
+
+Clone the repo into your terminal by typing 
+    
+    git clone https://github.com/tyroticuss/Canta-theme-budgie-improved
 
 Run
 
