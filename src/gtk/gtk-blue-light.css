@@ -7164,7 +7164,7 @@ window.budgie-popover:not(.csd) > frame.container, window.budgie-popover:not(.cs
 
 .budgie-menu.background {
   padding: 0;
-  background-color: #fcfcfc;
+  background-color: #414f56;
 }
 
 .budgie-menu scrollbar,
@@ -7204,7 +7204,7 @@ window.budgie-popover:not(.csd) > frame.container, window.budgie-popover:not(.cs
 }
 
 .budgie-menu row {
-  padding: 0;
+  padding: 5px;
 }
 
 .budgie-menu row:hover {
