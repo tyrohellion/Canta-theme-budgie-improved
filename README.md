@@ -11,7 +11,7 @@ This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for 
 - no more rounded corners on the budgie panel
 - changed budgie unread notifications applet color to light blue instead of light green
 - removed dotted lines on scrolling areas like the budgie menu for a cleaner look
-
+- increased spacing and matched colors on budgie menu for an overall cleaner and uniform look
 
 ## Info
 
