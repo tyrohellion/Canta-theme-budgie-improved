@@ -1,11 +1,10 @@
-## Canta-gtk-theme
+## Canta-theme-budgie-improved
 
 Canta is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for his great job!
-#### materia gtk theme: https://github.com/nana-4/materia-theme
+based off the materia gtk theme: https://github.com/nana-4/materia-theme
 
-## These are the things that are improved for budgie desktop:
+## Canta budgie improvements
 
 - changed budgie tasklist buttons to lay out horizontally instead of vertically
 - no more rounded corners on the budgie panel
@@ -17,7 +16,7 @@ This theme is based on materia gtk theme of nana-4. Thanks nana-4 sincerely for 
 
 ![](https://github.com/tyroticuss/Canta-theme-budgie-improved/blob/master/gif/Canta%20theme%20budgie%20improved.gif)
 
-## Info
+## Requirements
 
 ### GTK+ 3.20 or later
 
@@ -85,27 +84,5 @@ Install light compact square version of Canta theme
 
 Install Canta theme with nautilus background image in $HOME/.tmp
 
-### Icon
-#### Canta icon theme
-Canta icon theme use numix-icon-theme-circle icon theme for Inherits,
-
-so if you want a better experience you should install numix-circle first
-
-#### numix-icon-theme-circle : https://github.com/numixproject/numix-icon-theme-circle
-
-(Just install numix-circle nomal, Canta icon theme will use its icons resources for missing part!)
-
-#### Install Canta theme with icon theme
-
-    ./install.sh -i
-
 ### Kde theme
 [Canta-kde](https://github.com/vinceliuice/Canta-kde)
-
-## Screenshots
-#### GNOME Shell
-![1](https://github.com/vinceliuice/Canta-theme/blob/images/screenshots/screenshot1.png?raw=true)
-![2](https://github.com/vinceliuice/Canta-theme/blob/images/screenshots/screenshot2.jpeg?raw=true)
-![3](https://github.com/vinceliuice/Canta-theme/blob/images/screenshots/screenshot3.jpeg?raw=true)
-![4](https://github.com/vinceliuice/Canta-theme/blob/images/screenshots/screenshot4.jpeg?raw=true)
-![5](https://github.com/vinceliuice/Canta-theme/blob/images/screenshots/screenshot5.jpeg?raw=true)
