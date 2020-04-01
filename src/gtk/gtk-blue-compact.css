@@ -7190,7 +7190,8 @@ window.budgie-popover:not(.csd) > frame.container, window.budgie-popover:not(.cs
 .budgie-menu button {
   min-height: 32px;
   padding: 0 8px;
-  border-radius: 0;
+  border-top-right-radius: 19px;
+  border-bottom-right-radius: 19px;
   color: rgba(0, 0, 0, 0.75);
   font-weight: normal;
 }
