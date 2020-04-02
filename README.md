@@ -14,7 +14,10 @@ based off the materia gtk theme: https://github.com/nana-4/materia-theme
 
 ## Showcase
 
-![](https://github.com/tyroticuss/Canta-theme-budgie-improved/blob/master/gif/Canta%20theme%20budgie%20improved.gif)
+![](https://github.com/tyroticuss/Canta-theme-budgie-improved/blob/master/showcase/Canta%20theme%20budgie%20improved.gif)
+![](https://github.com/tyroticuss/Canta-theme-budgie-improved/blob/master/showcase/raven%20menu.png)
+![](https://github.com/tyroticuss/Canta-theme-budgie-improved/blob/master/showcase/start%20menu.png)
+
 
 ## Requirements
 
@@ -71,7 +74,6 @@ Usage:  `./Install`  **[OPTIONS...]**
 |-s, --size           | Specify theme size variant **[standard/compact]** (Default: All variants)||
 |-o, --ordinary       | Install theme without nautilus background image|
 |-g, --gdm            | Install GDM theme|
-|-i, --icon           | Install icon theme|
 |-h, --help           | Show this help|
 
 **FOR EXAMPLE**
