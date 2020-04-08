@@ -11,6 +11,7 @@ based off the materia gtk theme: https://github.com/nana-4/materia-theme
 - changed budgie unread notifications applet color to light blue instead of light green
 - removed dotted lines on scrolling areas like the budgie menu for a cleaner look
 - increased spacing and matched colors on budgie menu for an overall cleaner and uniform look
+- category buttons on the budgie menu are rouned on the right side for more of a plata look
 
 ## Showcase
 
@@ -78,9 +79,9 @@ Usage:  `./Install`  **[OPTIONS...]**
 
 **FOR EXAMPLE**
 
-    ./install.sh -c light -s compact -r square
+    ./install.sh -c light -s compact
 
-Install light compact square version of Canta theme
+Install light compact version of Canta theme
 
     ./install.sh -d $HOME/.tmp -b
 
