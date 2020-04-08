@@ -6820,6 +6820,8 @@ window.budgie-popover:not(.csd) > frame.container, window.budgie-popover:not(.cs
   padding: 0 8px;
   border-top-right-radius: 19px;
   border-bottom-right-radius: 19px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
   color: #FFFFFF;
   font-weight: normal;
 }
